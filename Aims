@@ -1,0 +1,17 @@
+Lab 1 - Write a program to calculate Mean, mode, median.
+Lab 2 - Write a program to draw histogram for particular data.
+Lab 3 - Write a program to smoothing data by Bin methods.
+Lab 4 - Implementation of regression.
+Lab 5 - Write a program for implementation of pearson’s chi square test.
+Lab 6 - Implementation of data normalization techniques.
+Lab 7 - Implementation of linear regression(print weights and intercepts also).
+Lab 8 - Generate Concept hierarchy.
+Lab 9 - Implementation of model prediction using regression.
+Lab 10 - Write a program for attribute selection using information gain.
+Lab 11 - Write a program to calculate Euclidean and mahattan distance.
+Lab 12 - Calculate dissimilarity between binary data.
+Lab 13 - Calculate cluster feature for given cluster.
+Lab 14 - Implementation of k-means algorithm.
+Lab 15 - Calculate clustering feature in cluster analysis(Using BIRCH method).
+Lab 16 - Calculate similarity in ROCK(Using Cluster analysis).
+Lab 17 -Write a program to implement Apriori algorithm.
